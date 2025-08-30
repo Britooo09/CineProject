@@ -34,7 +34,7 @@ password: 12345
 
 # 
 
-Proyecto de práctica. Aplicación de consola que permite consultar información sobre el clima utilizando la API de OpenWeatherMaps.
+Proyecto grupal para la universidad. Aplicación de consola que emula el sistema de registro, control y venta de entradas de un cine.
 
 ## Descripción
 
