@@ -32,7 +32,7 @@ password: 12345
 > [!NOTE]
 > This entire project is in Spanish.
 
-# 
+---
 
 Proyecto grupal para la universidad. Aplicación de consola que emula el sistema de registro, control y venta de entradas de un cine.
 
